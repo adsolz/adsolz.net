@@ -1,0 +1,2 @@
+# adsolz.net
+General Purpose
